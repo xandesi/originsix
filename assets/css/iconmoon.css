@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?7dxii8');
+  src:  url('fonts/icomoon.eot?7dxii8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7dxii8') format('truetype'),
+    url('fonts/icomoon.woff?7dxii8') format('woff'),
+    url('fonts/icomoon.svg?7dxii8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak-as: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e900";
+  color: #69b99d;
+}
+.icon-cosmetic:before {
+  content: "\e901";
+  color: #69b99d;
+}
+.icon-facebook:before {
+  content: "\e902";
+  color: #69b99d;
+}
+.icon-instagram:before {
+  content: "\e903";
+  color: #69b99d;
+}
+.icon-mail:before {
+  content: "\e904";
+  color: #69b99d;
+}
+.icon-map-pin:before {
+  content: "\e905";
+  color: #69b99d;
+}
+.icon-menu:before {
+  content: "\e906";
+  color: #69b99d;
+}
+.icon-phone:before {
+  content: "\e907";
+}
+.icon-trim:before {
+  content: "\e908";
+  color: #69b99d;
+}
+.icon-whatsapp:before {
+  content: "\e909";
+  color: #69b99d;
+}
+.icon-woman-hair:before {
+  content: "\e90a";
+  color: #69b99d;
+}
+.icon-youtube:before {
+  content: "\e90b";
+  color: #69b99d;
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+.icon-infinite:before {
+  content: "\ea2f";
+}
